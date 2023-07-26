@@ -11,3 +11,12 @@
 1. Прислать PR из ветви feature/lesson02 в ветку develop (созданную от master) в вашем репозитории.
 1. Cсылку на PR отправить в личным сообщением в телеграмм @vmnaumov.
 1. Ко всем методам и должны быть написаны java docs.
+
+
+    //    5, 0 -> 5
+    //    0, 5 -> 5
+    //    12, 18 -> 6
+    //    10, 1 -> 1
+    //    6, 10 -> 2
+    //    0, 0 -> Integer.MAX_VALUE или IllegalArgumentException
+    //    Integer.MIN_VALUE, Integer.MIN_VALUE - ?
