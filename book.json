@@ -1,0 +1,16 @@
+{
+  "title": "Неизвестное",
+  "author": [
+    {
+      "firstName": "Александр",
+      "lastName": "Пушкин",
+      "yearOfBirth": 1799
+    },
+    {
+      "firstName": "Михаил",
+      "lastName": "Лермонтов",
+      "yearOfBirth": 1815
+    }
+  ],
+  "edition": 0
+}

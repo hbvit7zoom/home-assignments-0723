@@ -1,0 +1,13 @@
+<book title="Неизвестное">
+    <author>
+        <firstName>Александр</firstName>
+        <lastName>Пушкин</lastName>
+        <yearOfBirth>1799</yearOfBirth>
+    </author>
+    <author>
+        <firstName>Михаил</firstName>
+        <lastName>Лермонтов</lastName>
+        <yearOfBirth>1815</yearOfBirth>
+    </author>
+    <edition>0</edition>
+</book>
