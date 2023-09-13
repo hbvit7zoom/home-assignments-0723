@@ -1,0 +1,12 @@
+.root-class {
+    background: aqua;
+    color: red;
+}
+
+.root-class div {
+    background: red;
+    color: black;
+}
+
+.label-class {
+}
