@@ -1,0 +1,8 @@
+GET http://localhost:8080/module09_classwork_war/hello?param1={{param1}}&param2=value2
+my-header-x: 123
+
+###
+GET http://localhost:8080/module09_classwork_war/calc?v1=123&v2=555
+
+###
+GET http://localhost:8080/module09_classwork_war/calc/sum/12123?v1=123&v2=555
