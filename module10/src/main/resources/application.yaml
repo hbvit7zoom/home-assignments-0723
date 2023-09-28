@@ -1,0 +1,6 @@
+app:
+  value: value-app
+  my-super-value: my-super-value
+  database:
+    database-url: my-db-url
+    mock: true
