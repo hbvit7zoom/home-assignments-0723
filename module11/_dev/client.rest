@@ -1,0 +1,15 @@
+GET http://localhost:8080/hello
+
+###
+POST http://localhost:8080/task
+Content-Type: application/json;charset=UTF-8
+
+{
+    "summary": "input summary",
+    "description": "input description",
+    "owner": "input owner"
+}
+
+###
+GET http://localhost:8080/task?taskId=123
+user-x: my user

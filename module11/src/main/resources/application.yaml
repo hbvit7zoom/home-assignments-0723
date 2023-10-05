@@ -1,0 +1,9 @@
+app:
+  task-service: default
+  url: ${MY_APP_URL}
+
+logging:
+  level:
+    root: info
+#    ru.sberbank.jd.module11.controller.TaskController: debug
+

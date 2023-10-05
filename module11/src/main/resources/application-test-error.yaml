@@ -1,0 +1,3 @@
+app:
+  task-service: error
+  url: http://localhost/error
