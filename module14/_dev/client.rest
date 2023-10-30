@@ -1,0 +1,4 @@
+GET http://localhost:8080/inventory/hello
+
+###
+GET http://localhost:8082/order/hello
